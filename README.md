@@ -14,3 +14,4 @@ There are several modules to be implemented:
 
 Current status: 
 * set up Java spring, and maven
+"用户发送一个get请求，返回hello，Jason"
