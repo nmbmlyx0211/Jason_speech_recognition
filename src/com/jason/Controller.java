@@ -9,6 +9,6 @@ public class Controller {
 	
 @RequestMapping(method = RequestMethod.GET, value = "/")
 	public String uploadVideos(){
-		return "";
+		return "hello";
 	}
 }
